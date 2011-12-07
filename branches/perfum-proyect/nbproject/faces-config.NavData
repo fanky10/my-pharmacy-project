@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scene Scope="Project" version="2">
+    <Scope Scope="Faces Configuration Only"/>
+    <Scope Scope="Project">
+        <Node id="jsptest/testingXML.jspx" x="650" y="150" zoom="true"/>
+        <Node id="fb_header.jsp" x="150" y="150" zoom="true"/>
+        <Node id="pruebita.jsp" x="400" y="300" zoom="true"/>
+        <Node id="jsptest/newjsf.xhtml" x="1150" y="150" zoom="true"/>
+        <Node id="test_templates/testList.jsp" x="400" y="150" zoom="true"/>
+        <Node id="index.jsp" x="160" y="450" zoom="true"/>
+        <Node id="header.jsp" x="650" y="300" zoom="true"/>
+        <Node id="login_test.jsp" x="900" y="150" zoom="true"/>
+        <Node id="jsptest/testingBeans.jsp" x="900" y="300" zoom="true"/>
+        <Node id="test_templates/tem_01.jsp" x="150" y="600" zoom="true"/>
+        <Node id="clientes.jsp" x="400" y="450" zoom="true"/>
+        <Node id="private/MyPrivate.jsp" x="150" y="300" zoom="true"/>
+    </Scope>
+    <Scope Scope="All Faces Configurations"/>
+</Scene>
