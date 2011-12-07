@@ -1,0 +1,36 @@
+.main{
+    height: 100px;
+    width: 750px;
+    text-align: center;
+}
+.tbl-productos{
+    text-align: center;
+    border: 1px solid #333;
+    margin-bottom: 1px;
+    border-bottom: 2px solid #333;
+    border-right: 2px solid #333;
+    color: #632a39;
+    position: relative;
+    float: left;
+}
+/*.tbl-productos th[scope=col] { color: #000; background-color: #8fadcc; }*/
+.tbl-productos th[scope=col] { color: #fff; background-color: #7d98b3; }
+.tbl-productos th[scope=row] { background-color: #b8cfe5; }
+.tbl-productos tr.alt th, .tbl-productos tr.alt td { color: #2a4763; }
+
+.Perfume{
+    width: 500px;
+    height: 500px;
+    text-align: justify;
+    position: relative;
+    float: right;
+    right: 1000px;
+    background-image: url(cuadrito.jpg);
+}
+
+.Imagen {
+ position: relative;
+ float: left;
+
+}
+
